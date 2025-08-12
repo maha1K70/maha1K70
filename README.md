@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maha1K70
 - 👀 I’m interested in point of sale 
-- 🌱 I’m currently learning powershell, c#, c++
-- 💞️ I’m looking to collaborate on Tienda UNAM
+- 🌱 I’m currently learning powershell, c#, c++, python
+- 💞️ I’m looking to collaborate on Consejos Academicos UNAM
 - 📫 How to reach me amarquezh@gmail.com
 
 <!---
